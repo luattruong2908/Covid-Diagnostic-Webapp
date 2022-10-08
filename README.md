@@ -1,2 +1,2 @@
 # Covid-Diagnostic-Webapp
-Application to detect covid through X-ray images
+Application to detect covid through X-ray images using Efficient-Net
