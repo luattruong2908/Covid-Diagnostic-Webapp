@@ -1,0 +1,11 @@
+tqdm==4.64.0
+torchvision==0.12.0
+pandas==1.2.4
+scikit-image==0.19.2
+streamlit==1.7.0
+matplotlib==3.4.3
+pillow==9.0.1
+os==0.1.4
+numpy==1.22.3
+pydicom==2.3.0
+pyngrok==5.1.0
